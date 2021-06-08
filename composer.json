@@ -1,0 +1,12 @@
+{
+    "name": "victormln/tdd-color-kata",
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "authors": [
+        {
+            "name": "victormln",
+            "email": "victor.molinaf@gmail.com"
+        }
+    ]
+}

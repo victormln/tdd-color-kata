@@ -1,0 +1,8 @@
+version: "3.7"
+
+services:
+  php8:
+    container_name: php8
+    build: .
+    volumes:
+    - ./:/var/www/tdd-color-kata
