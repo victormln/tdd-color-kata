@@ -3,6 +3,9 @@
     "require": {
         "phpunit/phpunit": "^9.5"
     },
+    "require-dev": {
+        "roave/security-advisories": "dev-latest"
+    },
     "authors": [
         {
             "name": "victormln",
