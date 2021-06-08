@@ -5,8 +5,7 @@
          cacheResultFile=".phpunit.cache/test-results"
          executionOrder="random"
          beStrictAboutTodoAnnotatedTests="true"
-         failOnRisky="true"
-         failOnWarning="true"
+         colors="true"
          verbose="true">
     <testsuites>
         <testsuite name="tests">
